@@ -1,0 +1,7 @@
+streamlit
+ifcopenshell
+shapely
+pandas
+requests
+folium
+streamlit-folium

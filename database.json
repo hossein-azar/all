@@ -1,0 +1,91 @@
+{
+    "high pollution area": {
+        "limit_m": 500,
+        "points": [
+            { "name": "Old Factory Zone", "lat": 40.7128, "lon": -74.0060 },
+            { "name": "Smog Center", "lat": 40.7300, "lon": -73.9900 }
+        ]
+    },
+    "low pollution area": {
+        "limit_m": 100,
+        "points": [
+            { "name": "Green Park", "lat": 40.7128, "lon": -74.0060 },
+            { "name": "Lakeside", "lat": 40.7300, "lon": -73.9900 }
+        ]
+    },
+    "rail road": {
+        "limit_m": 250,
+        "points": [
+            { "name": "Central Track A", "lat": 40.7500, "lon": -73.9967 },
+            { "name": "North Line Switch", "lat": 40.7550, "lon": -73.9900 }
+        ]
+    },
+    "highways": {
+        "limit_m": 150,
+        "points": [
+            { "name": "I-95 Exit 4", "lat": 40.8000, "lon": -73.9500 },
+            { "name": "Expressway South", "lat": 40.7200, "lon": -74.0100 }
+        ]
+    },
+    "terminals": {
+        "limit_m": 250,
+        "points": [
+            { "name": "Grand Terminal", "lat": 40.7527, "lon": -73.9772 },
+            { "name": "West Bus Depot", "lat": 40.7600, "lon": -73.9950 },
+            { "name": "Kaveh terminal", "lat": 35.70058, "lon": 51.3866 }
+        ]
+    },
+    "airports": {
+        "limit_m": 1000,
+        "points": [
+            { "name": "JF Kennedy Airport", "lat": 40.6413, "lon": -73.7781 },
+            { "name": "LaGuardia Airport", "lat": 40.7769, "lon": -73.8740 },
+            { "name": "Mehrabad Airport", "lat": 35.6895, "lon": 51.2745 }
+        ]
+    },
+    "hospitals": {
+        "limit_m": 150,
+        "points": [
+            { "name": "City General", "lat": 40.7400, "lon": -73.9700 },
+            { "name": "St. Marys", "lat": 40.7800, "lon": -73.9600 },
+            { "name": "Sasan Hospital", "lat": 35.7112, "lon": 51.4027 },
+            { "name": "Iranshahr Hospital", "lat": 35.71000, "lon": 51.43307 }
+        ]
+    },
+    "abattoir-animal keeping": {
+        "limit_m": 500,
+        "points": [
+            { "name": "Tehran Makian Alvan", "lat": 35.53492, "lon": 51.56799 }
+        ]
+    },
+    "gas station": {
+        "limit_m": 150,
+        "points": [
+            { "name": "Shell Downtown", "lat": 40.7150, "lon": -74.0000 },
+            { "name": "BP Uptown", "lat": 40.7900, "lon": -73.9700 },
+            { "name": "hafez gas station", "lat": 35.7008, "lon": 51.4124 },
+            { "name": "ferdowsi gas station", "lat": 35.70271, "lon": 51.41922 }
+        ]
+    },
+    "cinema": {
+        "limit_m": 150,
+        "points": [
+            { "name": "AMC Empire", "lat": 40.7560, "lon": -73.9890 },
+            { "name": "Regal Battery Park", "lat": 40.7160, "lon": -74.0150 },
+            { "name": "Sepideh Cinema", "lat": 35.70146, "lon": 51.3995 },
+            { "name": "felestin Cinema", "lat": 35.70666, "lon": 51.40529 }
+        ]
+    },
+    "fire stations": {
+        "limit_m": 250,
+        "points": [
+            { "name": "Tehran fire station.40", "lat": 35.70834, "lon": 51.39355 }
+        ]
+    },
+    "police stations": {
+        "limit_m": 150,
+        "points": [
+            { "name": "Police station", "lat": 35.70035, "lon": 51.39362 }
+        ]
+    }
+}
